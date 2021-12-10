@@ -1,0 +1,38 @@
+
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(×¯Ÿ›ùÿÿÿÿ8äÇŒÌ/HàURMINORZ
+CODE_SMELL
+g
+java:S1611"4Remove the parentheses around the "number" parameter(Œê£Ä8ìÀ³ŒÌ/HÙURMINORZ
+CODE_SMELL
+t
+java:S1126("AReplace this if-then-else statement by a single return statement.( ‘â°8åÎÖŒÌ/HèURMINORZ
+CODE_SMELL
+…
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Œê£Ä8ìÀ³ŒÌ/HØURMINORZ
+CODE_SMELL
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¤Åóÿÿÿÿÿ8ı¡ŒÌ/HÑURMINORZ
+CODE_SMELL
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¼ôÈÓúÿÿÿÿ8åÎÖŒÌ/HæURMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òÑìˆûÿÿÿÿ8Ã óÌ/HşURMAJORZ
+CODE_SMELL
+y
+java:S1126!"AReplace this if-then-else statement by a single return statement.(ß½İÀøÿÿÿÿ8äÇŒÌ/HâURMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îÔŞûÿÿÿÿ8¡§ŒÌ/HêURMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦–û8ìÀ³ŒÌ/HÚURMAJORZ
+CODE_SMELL
+`
+java:S1604"(Make this anonymous inner class a lambda(¤Åóÿÿÿÿÿ8ı¡ŒÌ/HÔURMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(‘8üíÉŒÌ/HãURMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚ëÇ¹ıÿÿÿÿ8Èí¨ŒÌ/H×URMAJORZ
+CODE_SMELL
+y
+java:S1126"AReplace this if-then-else statement by a single return statement.(‰¤×Êøÿÿÿÿ8ı¡ŒÌ/HÒURMINORZ
+CODE_SMELL

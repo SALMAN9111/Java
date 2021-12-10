@@ -1,0 +1,47 @@
+
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½å×–ùÿÿÿÿH‚RMINORZ
+CODE_SMELL
+i	java:S106F"9Replace this use of System.out or System.err by a logger.(¼÷ÈõşÿÿÿÿHRMAJORZ
+CODE_SMELL
+Š
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó­¶œşÿÿÿÿH†RMINORZ
+CODE_SMELL
+l	java:S125,"<This block of commented-out lines of code should be removed.(è¦äŞùÿÿÿÿH…RMAJORZ
+CODE_SMELL
+d
+java:S1144D"3Remove this unused private "displayByNames" method.(ƒ…¿‡ûÿÿÿÿH•RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(áƒÃ‘şÿÿÿÿH€RMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿH„RMAJORZ
+CODE_SMELL
+c	java:S1064"9Replace this use of System.out or System.err by a logger.(¬åAH‡RMAJORZ
+CODE_SMELL
+^
+java:S1144J"2Remove this unused private "displayByCgpa" method.(ÜÄ¥©H–RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ÍüúşşÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+d	java:S106@"9Replace this use of System.out or System.err by a logger.(§¯•ÍHRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ºÔ€™ùÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(ÉşªÓHˆRMAJORZ
+CODE_SMELL
+l	java:S1257"<This block of commented-out lines of code should be removed.(—ÛóäûÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+Y
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êXH‘RMINORZ
+CODE_SMELL
+e
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(à€¼úÿÿÿÿH’RMINORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(¼÷ÈõşÿÿÿÿHRMAJORZ
+CODE_SMELL
+[
+java:S1144"/Remove this unused private "caseStudy1" method.(ƒ—Á°H”RMAJORZ
+CODE_SMELL
+\
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1H“RMINORZ
+CODE_SMELL

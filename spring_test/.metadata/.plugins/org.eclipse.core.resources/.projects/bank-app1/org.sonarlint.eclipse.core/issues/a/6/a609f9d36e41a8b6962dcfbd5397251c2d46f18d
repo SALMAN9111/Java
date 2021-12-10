@@ -1,0 +1,25 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Êù»HêRMAJORZ
+CODE_SMELL
+g
+java:S1854$";Remove this useless assignment to local variable "dtoList".(×º‡»HëRMAJORZ
+CODE_SMELL
+…
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(×º‡»HìRMINORZ
+CODE_SMELL
+…
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â´ĞºHíRMINORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(èìøµıÿÿÿÿHîRMAJORZ
+CODE_SMELL
+…
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â´ĞºHïRMINORZ
+CODE_SMELL
+d	java:S106V"9Replace this use of System.out or System.err by a logger.(×àÓÚHğRMAJORZ
+CODE_SMELL
+i	java:S106b"9Replace this use of System.out or System.err by a logger.(±ñ¡³ùÿÿÿÿHñRMAJORZ
+CODE_SMELL
+\
+java:S3655i"7Call "Optional#isPresent()" before accessing the value.(ã¸˜¾HòRMAJORZBUG
+\
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ˆÃÔÙHóRMAJORZBUG

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;welcomeLabel&apos; in &apos;com.monocept.model.jframe.WelcomePage&apos; to &apos;resultLabel&apos;&#x0D;&#x0A;- Original project: &apos;jframe-login-page&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.jframe.WelcomePage.welcomeLabel&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.model.jframe.WelcomePage.resultLabel&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;welcomeLabel&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.monocept.model.jframe{WelcomePage.java[WelcomePage^welcomeLabel" name="resultLabel" references="true" setter="false" stamp="1634960113250" textual="false" version="1.0"/>
+</session>

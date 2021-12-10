@@ -1,0 +1,20 @@
+
+‘
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëØŸşÿÿÿÿ8¾÷„óĞ/HÒRMINORZ
+CODE_SMELL
+N
+java:S3626h"Remove this redundant jump.(ûÁİ…8º™ ™Ñ/H¸RMINORZ
+CODE_SMELL
+‚
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒøˆùÿÿÿÿ8ÍáŞ–Ñ/HâRBLOCKERZBUG
+‚
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒøˆùÿÿÿÿ8§Â·ûĞ/HŠRBLOCKERZBUG
+N
+java:S3626B"Remove this redundant jump.(ûÁİ…8Ğì·ûĞ/HRMINORZ
+CODE_SMELL
+‚
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒøˆùÿÿÿÿ8¾÷„óĞ/HÓRBLOCKERZBUG
+‚
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒøˆùÿÿÿÿ8º™ ™Ñ/H¹RBLOCKERZBUG
+p	java:S106X"9Replace this use of System.out or System.err by a logger.(ˆ—òûÿÿÿÿ8ÚÈ¹™Ñ/H½RMAJORZ
+CODE_SMELL

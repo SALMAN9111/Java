@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(û§º§ûÿÿÿÿ8ÿœ¾’Ì/HèVRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(²ðô‹ùÿÿÿÿ8¤‹Õ’Ì/HÿVRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ƒÅÞõýÿÿÿÿ8¢ÑÓ’Ì/HüVRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(æÜóÀ8¾€Ã’Ì/HîVRMAJORZ
+CODE_SMELL
+Z
+java:S1604"(Make this anonymous inner class a lambda(©Í›\8£—¹’Ì/HáVRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¬þÍüÿÿÿÿ8£—¹’Ì/HßVRMAJORZ
+CODE_SMELL

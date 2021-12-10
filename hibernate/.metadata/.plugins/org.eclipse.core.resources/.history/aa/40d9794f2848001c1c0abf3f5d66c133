@@ -1,0 +1,21 @@
+package com.monocept.test;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+import com.monocept.model.Actor;
+import com.monocept.model.Movie;
+
+public class ManyToManyTest {
+	public static void main(String[] args) {
+		Actor actor1 = new Actor(101, "Paul Walker");
+		Actor actor2 = new Actor(102, "Vin Diesel");
+		Collection<Actor> Ca = new ArrayList<Actor>();
+		Ca.add(actor1);
+		
+		Movie movie1 = new Movie(1, "Fast And Furious");
+		Movie movie2 = new Movie(2,"Brick Mension");
+		
+		movie1.setActor(Ca);
+	}
+}

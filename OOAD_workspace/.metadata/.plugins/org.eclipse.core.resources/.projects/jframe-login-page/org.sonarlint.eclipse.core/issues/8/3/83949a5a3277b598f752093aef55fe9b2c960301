@@ -1,0 +1,17 @@
+
+Š
+java:S1450"XRemove the "userLabel" field and declare it as a local variable in the relevant methods.(ÿÜ³"8Œ•‚Æ/H›:RMINORZ
+CODE_SMELL
+e
+java:S4973C"9Use the "equals" method if value comparison was intended.(Ì‘ã–8èÒ®‚Æ/H¦:RMAJORZBUG
+
+java:S1450"\Remove the "passwordLabel" field and declare it as a local variable in the relevant methods.(™õ’‘8Œ•‚Æ/H™:RMINORZ
+CODE_SMELL
+s	java:S125J"<This block of commented-out lines of code should be removed.(®¨•šÿÿÿÿÿ8”ë‡‡Æ/H­>RMAJORZ
+CODE_SMELL
+ˆ
+java:S1450"URemove the "button" field and declare it as a local variable in the relevant methods.(½ÕÇŸ8˜¾™‚Æ/H:RMINORZ
+CODE_SMELL
+g
+java:S1874A"/Remove this use of "getText"; it is deprecated.(Ëó¸²ûÿÿÿÿ8ßô£‚Æ/H¢:RMINORZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(è®¤HªRMAJORZ
+CODE_SMELL
+k
+java:S1854!":Remove this useless assignment to local variable "pColor".(ÙÓö«ûÿÿÿÿH«RMAJORZ
+CODE_SMELL
+d
+java:S1854("9Remove this useless assignment to local variable "value".(ÍòôGH¬RMAJORZ
+CODE_SMELL
+j
+java:S1854+"9Remove this useless assignment to local variable "value".(í¡ªşüÿÿÿÿH­RMAJORZ
+CODE_SMELL
+_
+java:S1121!".Extract the assignment out of this expression.(ÙÓö«ûÿÿÿÿH®RMAJORZ
+CODE_SMELL
+Y
+java:S1121(".Extract the assignment out of this expression.(ÍòôGH¯RMAJORZ
+CODE_SMELL
+_
+java:S1121+".Extract the assignment out of this expression.(í¡ªşüÿÿÿÿH°RMAJORZ
+CODE_SMELL

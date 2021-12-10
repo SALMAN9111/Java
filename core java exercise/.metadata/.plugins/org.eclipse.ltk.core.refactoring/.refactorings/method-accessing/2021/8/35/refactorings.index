@@ -1,0 +1,24 @@
+1629736729869	Delete element
+1629781912944	Rename type 'Function'
+1629782609010	Rename local variable 'sc'
+1629782637717	Rename local variable 'Sc'
+1629783816545	Rename field 'a'
+1629783826618	Rename field 'b'
+1629783855370	Rename local variable 'a'
+1629783916582	Rename method 'Add'
+1629783939624	Rename method 'Sub'
+1629783951647	Rename method 'getAdd'
+1629809915653	Rename local variable 'f'
+1629813884356	Rename local variable 'Sc'
+1629818538242	Rename local variable 'name1'
+1629890915588	Extract method 'DisplayFullnameUsingSubstring'
+1629890985358	Extract method 'DisplayFullNameUsingSplit'
+1629957700303	Rename method 'DisplayFullnameUsingSubstring'
+1629957821680	Rename method 'DisplayFullNameUsingSplit'
+1629982937143	Rename local variable 'newStudent'
+1629987071888	Rename local variable 'stu'
+1629988029745	Rename local variable 'stu'
+1629992791836	Rename method 'PrintStuDetails'
+1629992853304	Delete element
+1629992884132	Delete element
+1630126998252	Delete element

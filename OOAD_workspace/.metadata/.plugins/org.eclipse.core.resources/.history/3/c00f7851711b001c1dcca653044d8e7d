@@ -1,0 +1,26 @@
+package com.monocept.model.test;
+
+import java.util.Date;
+
+import com.monocept.model.Customer;
+import com.monocept.model.Order;
+import com.monocept.model.OrderItem;
+import com.monocept.model.Product;
+
+public class InvoiceInfoTest {
+	public static void main(String[] args) {
+		Date d = new Date();
+		
+		Product product = new Product(1, "something", 100, 0);
+		OrderItem orderItem = new OrderItem(1, product, 3);
+		Order order = new Order(1, d);
+		Customer customer = new Customer(1, "Frank");
+		
+		printInvoiceInfo(customer);
+		
+	}
+
+	private static void printInvoiceInfo(Customer customer) {
+		
+	}
+}

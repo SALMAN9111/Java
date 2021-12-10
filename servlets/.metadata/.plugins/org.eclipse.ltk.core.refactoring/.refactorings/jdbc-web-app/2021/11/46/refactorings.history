@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sc&apos; in &apos;com.monocept.controller.ConnectionController.doGet(...)&apos; to &apos;scanner&apos;&#x0D;&#x0A;- Original project: &apos;jdbc-web-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.controller.ConnectionController.doGet(HttpServletRequest, HttpServletResponse).sc&apos;&#x0D;&#x0A;- Renamed element: &apos;sc&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sc&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.controller{ConnectionController.java[ConnectionController~doGet~QHttpServletRequest;~QHttpServletResponse;@sc!1449!1484!1457!1458!QScanner;!0!false" name="scanner" references="true" stamp="1636515576541" version="1.0"/>
+</session>

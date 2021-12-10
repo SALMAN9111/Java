@@ -1,0 +1,10 @@
+
+u
+java:S1206>"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãHëRMINORZBUG
+D
+java:S2097>"Add a type test to this method.(ÜÑãHìRMINORZBUG
+r
+java:S1126G"AReplace this if-then-else statement by a single return statement.(±×µáüÿÿÿÿHíRMINORZ
+CODE_SMELL
+f
+java:S2259A"AA "NullPointerException" could be thrown; "acc" is nullable here.(ÚÈİşHîRMAJORZBUG

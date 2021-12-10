@@ -1,0 +1,59 @@
+package com.monocept.model;
+
+import java.awt.BorderLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+
+@SuppressWarnings("serial")
+public class ThreadDemo extends JFrame implements ActionListener {
+	JButton button, button1, button2;
+	JPanel panel;
+
+
+	public ThreadDemo() {
+		button = new JButton("Hello");
+		button1 = new JButton("print Time");
+		button2 = new JButton("Print Async");
+
+		panel = new JPanel();
+		panel.add(button);
+		panel.add(button1);
+		panel.add(button2);
+
+		add(panel, BorderLayout.CENTER);
+
+		button.addActionListener(this);
+		button1.addActionListener(this);
+		button2.addActionListener(this);
+
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		Object btn = e.getSource();
+		if (btn == button) {
+			JOptionPane.showMessageDialog(this, "hello");
+			
+		}
+		
+		if(btn == button1) {
+			@SuppressWarnings("unused")
+			TimePrinter time = new TimePrinter();
+		}
+		
+		if(btn == button2) {
+			MyThread th = new MyThread(TimePrinter);
+			th.start();
+			
+			
+		}
+
+	}
+
+
+}

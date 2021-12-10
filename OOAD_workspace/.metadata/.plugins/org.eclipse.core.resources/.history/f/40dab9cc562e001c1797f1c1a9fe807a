@@ -1,0 +1,33 @@
+package com.monocept.model;
+
+import java.util.Calendar;
+import java.util.Date;
+
+public class TimePrinter extends Thread {
+	public TimePrinter() {
+		Calendar c = Calendar.getInstance();
+		c.set(Calendar.DATE,05);
+		Date date = c.getTime();
+
+		
+		new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				while (true) {
+					c.set(Calendar.DATE,05);
+					Date date1 = c.getTime();
+					System.out.println(date);
+				}
+			}
+		});
+		
+		
+		
+//		while (true) {
+//			c.set(Calendar.DATE,05);
+//			Date date1 = c.getTime();
+//			System.out.println(date);
+//		}
+	}
+}

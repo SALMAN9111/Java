@@ -1,0 +1,17 @@
+
+†
+java:S1104
+"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8ïí”©Í/H¢YRMINORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(Îø°Ì8éý»©Í/H¡YRMAJORZ
+CODE_SMELL
+_
+java:S1612!",Replace this lambda with a method reference.(É£øú8Ó™¶©Í/H¥YRMINORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(ÄÂ‚þ8Ó™¶©Í/H¦YRMAJORZ
+CODE_SMELL
+ƒ
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ïí”©Í/H¤YRMINORZ
+CODE_SMELL
+w
+java:S2095 "DUse try-with-resources or close this "Stream" in a "finally" clause.(ÁÖ©æúÿÿÿÿ8Ó™¶©Í/H£YRBLOCKERZBUG

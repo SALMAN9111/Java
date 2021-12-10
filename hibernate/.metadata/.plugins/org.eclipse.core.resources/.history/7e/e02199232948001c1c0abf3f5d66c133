@@ -1,0 +1,57 @@
+package com.monocept.model;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "MOVIE")
+public class Movie {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "MOVIE_ID")
+	private int movieId;
+
+	@Column(name = "MOVIE_NAME")
+	private String movieName;
+
+	@ManyToMany(mappedBy = "movie")
+	private Collection<Actor> actor = new ArrayList<Actor>();
+
+	public Movie(int movieId, String movieName) {
+		this.movieId = movieId;
+		this.movieName = movieName;
+	}
+
+	public int getMovieId() {
+		return movieId;
+	}
+
+	public void setMovieId(int movieId) {
+		this.movieId = movieId;
+	}
+
+	public String getMovieName() {
+		return movieName;
+	}
+
+	public void setMovieName(String movieName) {
+		this.movieName = movieName;
+	}
+
+	public Collection<Actor> getActor() {
+		return actor;
+	}
+
+	public void setActor(Collection<Actor> actor) {
+		this.actor = actor;
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;acountNo&apos; in &apos;com.monocept.model.Account&apos; to &apos;accountNo&apos;&#x0D;&#x0A;- Original project: &apos;account-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.Account.acountNo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.model.Account.accountNo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;acountNo&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.monocept.model{Account.java[Account^acountNo" name="accountNo" references="true" setter="false" stamp="1630740978362" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+1631775304904	Encapsulate field 'id'
+1631775311906	Encapsulate field 'name'
+1631775318913	Encapsulate field 'qyt'
+1631775327340	Encapsulate field 'price'
+1631782340787	Infer generic type arguments

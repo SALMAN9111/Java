@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;todo-app&apos; to &apos;todos-app&apos;&#x0D;&#x0A;- Original element: &apos;todo-app&apos;&#x0D;&#x0A;- Renamed element: &apos;todo-app&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;todo-app&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=todo-app" name="todos-app" references="true" stamp="1630640038452" version="1.0"/>
+</session>

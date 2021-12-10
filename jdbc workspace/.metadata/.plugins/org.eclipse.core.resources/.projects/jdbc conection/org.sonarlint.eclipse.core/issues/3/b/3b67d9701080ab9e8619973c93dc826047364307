@@ -1,0 +1,11 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(•Êıß8„œ¡Ğ/HRMAJORZ
+CODE_SMELL
+z
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¥êùÿÿÿÿ8„œ¡Ğ/H"RBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Í¼d8„œ¡Ğ/HRMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ØË™U8„œ¡Ğ/H RMAJORZ
+CODE_SMELL
+t
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8„œ¡Ğ/H!RBLOCKERZBUG

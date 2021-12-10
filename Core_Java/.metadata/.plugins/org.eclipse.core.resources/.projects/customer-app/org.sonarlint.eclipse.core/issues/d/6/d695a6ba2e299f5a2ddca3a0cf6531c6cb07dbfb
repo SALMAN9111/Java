@@ -1,0 +1,12 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(×¯“ĞıÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ì½‡ŸHÉRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘ëşÅùÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(×¯“ĞıÿÿÿÿHËRMAJORZ
+CODE_SMELL
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "UUID : " 4 times.(×¯“Ğıÿÿÿÿ8Ñ£¦Ï/HÌRCRITICALZ
+CODE_SMELL

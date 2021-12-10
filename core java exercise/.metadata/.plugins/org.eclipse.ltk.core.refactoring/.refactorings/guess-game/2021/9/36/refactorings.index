@@ -1,0 +1,6 @@
+1630649231922	Delete element
+1630684756677	Rename local variable 'gameGuessNumber'
+1630684875194	Extract method 'startGame'
+1630685181793	Rename field 'exitPoint'
+1630685309276	Rename field 'numberGuessedCorrect'
+1630686865046	Rename local variable 'userGeneratorNumber1'

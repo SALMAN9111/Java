@@ -1,0 +1,21 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(û¤ˆ×úÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(€Ú¿øÿÿÿÿÿH RMAJORZ
+CODE_SMELL
+y	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀØÅH¡RMINORZ
+CODE_SMELL
+c	java:S106#"9Replace this use of System.out or System.err by a logger.(îªç>H¢RMAJORZ
+CODE_SMELL
+c	java:S106$"9Replace this use of System.out or System.err by a logger.(€ø‹H£RMAJORZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(º„ÚH¤RMAJORZ
+CODE_SMELL
+c	java:S106/"9Replace this use of System.out or System.err by a logger.(³ş’H¥RMAJORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH¦RMAJORZ
+CODE_SMELL
+u
+java:S2095*"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(îŠ…ÂH§RBLOCKERZBUG
+w
+java:S2095+"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ºıõH¨RBLOCKERZBUG

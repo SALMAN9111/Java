@@ -1,0 +1,9 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(­ÔÑãûÿÿÿÿHºRMAJORZ
+CODE_SMELL
+f
+java:S1874";Remove this use of "buildSessionFactory"; it is deprecated.(ôˆýgH»RMINORZ
+CODE_SMELL
+b
+java:S1128"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³H¼RMINORZ
+CODE_SMELL

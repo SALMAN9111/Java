@@ -1,0 +1,15 @@
+
+[
+java:S1604"(Make this anonymous inner class a lambda(Î•¸ş8 ÌÙÌ/HõURMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚±ê×8İÊöÌ/HÿURMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×°Ó8Í´äÌ/HùURMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ²ïüÿÿÿÿ8ÚÜÌ/H÷URMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‰½Ãàşÿÿÿÿ8ÈşíÌ/HıURMAJORZ
+CODE_SMELL
+_
+java:S1612",Replace this lambda with a method reference.(ÙÌ8Í´äÌ/HøURMINORZ
+CODE_SMELL

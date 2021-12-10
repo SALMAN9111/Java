@@ -1,0 +1,23 @@
+package com.monocept.test;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import com.monocept.model.Department;
+import com.monocept.model.Employee;
+
+public class OneToManyTest {
+	public static void main(String[] args) {
+		Department dept1 = new Department(101, "sales", "Mumbai");
+		
+		Employee e1 = new Employee(1, "Frank", 25000, "SalesPerson");
+		Employee e2 = new Employee(2, "John", 20000, "SalesPerson");
+		
+		e1.setDept(dept1);
+		e2.setDept(dept1);
+		
+		Set<Employee> emps = new HashSet<Employee>();
+		
+	}
+	
+}

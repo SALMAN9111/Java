@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.monocept.test.FunctionTest.updateMrakToZero(...)&apos; to &apos;updateMarkToZero&apos;&#x0D;&#x0A;- Original project: &apos;passing-value-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.test.FunctionTest.updateMrakToZero(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.test.FunctionTest.updateMarkToZero(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;updateMrakToZero&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.monocept.test{FunctionTest.java[FunctionTest~updateMrakToZero~I" name="updateMarkToZero" references="true" stamp="1629788766676" version="1.0"/>
+</session>

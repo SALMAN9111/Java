@@ -1,0 +1,25 @@
+
+_
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿHÇXRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Â‚èÛúÿÿÿÿHÈXRMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(Ýêð HÉXRMAJORZ
+CODE_SMELL
+©
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ýóþÿÿÿÿHÍXRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(á§ŒòÿÿÿÿÿHÎXRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(²°Ž¬HÏXRMAJORZ
+CODE_SMELL
+f	java:S125&"<This block of commented-out lines of code should be removed.(ÆÑÏHÐXRMAJORZ
+CODE_SMELL
+l
+java:S1128";Remove this unused import 'com.monocept.model.ReadFromUrl'.(€ŸâïüÿÿÿÿHÙXRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(õÞ‹ÉHÚXRMAJORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿHÛXRMINORZ
+CODE_SMELL

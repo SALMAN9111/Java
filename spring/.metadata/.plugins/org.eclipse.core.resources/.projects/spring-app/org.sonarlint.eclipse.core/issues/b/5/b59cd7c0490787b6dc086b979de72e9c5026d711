@@ -1,0 +1,17 @@
+
+c	java:S106"9Replace this use of System.out or System.err by a logger.(˜Å¸ˆHRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(¼ù‘úÿÿÿÿHRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(ú¥ŠöûÿÿÿÿH!RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(åœìêùÿÿÿÿHRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(»ÊÉ­HRMAJORZ
+CODE_SMELL
+o
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8’™ıïÒ/H3RMINORZ
+CODE_SMELL
+i
+java:S1128"7Remove this unused import 'com.monocept.model.Contact'.(ÿğÙø8’™ıïÒ/H4RMINORZ
+CODE_SMELL

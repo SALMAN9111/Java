@@ -1,0 +1,10 @@
+
+H
+java:S1165"Make this "acc" field final.(ц…ГЋHтRMINORZ
+CODE_SMELL
+R
+java:S1165"&Make this "detailMessage" field final.(АѓмаHуRMINORZ
+CODE_SMELL
+T
+java:S1948"%Make "acc" transient or serializable.(ц…ГЋHфRCRITICALZ
+CODE_SMELL

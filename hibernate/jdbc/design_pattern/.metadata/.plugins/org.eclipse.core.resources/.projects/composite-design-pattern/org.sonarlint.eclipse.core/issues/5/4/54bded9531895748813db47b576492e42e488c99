@@ -1,0 +1,6 @@
+
+u
+java:S1192	"FDefine a constant instead of duplicating this literal "video" 5 times.(‰ÈœåHRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(™í£åHùRMAJORZ
+CODE_SMELL

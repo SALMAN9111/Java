@@ -1,0 +1,26 @@
+
+Y
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êXHRMINORZ
+CODE_SMELL
+k
+java:S1128":Remove this unused import 'com.monocept.model.StudentDTO'.(©Â“²şÿÿÿÿHRMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHŸRMINORZ
+CODE_SMELL
+c
+java:S1128"7Remove this unused import 'com.monocept.model.Address'.(ñÀÊşH RMINORZ
+CODE_SMELL
+r
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(Š¯ÖàH¡RCRITICALZVULNERABILITY
+[
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿH¢RMINORZ
+CODE_SMELL
+v
+java:S1128	"ERemove this unused import 'javax.print.attribute.SetOfIntegerSyntax'.(ÚƒäóıÿÿÿÿH£RMINORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¤RMINORZ
+CODE_SMELL
+r
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(ööÓÖH¥RCRITICALZVULNERABILITY

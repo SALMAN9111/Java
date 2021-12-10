@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.moncept.test.AccountArrayTest.printInfo(...)&apos; to &apos;printInfoUsingWhileLoop&apos;&#x0D;&#x0A;- Original project: &apos;account-equals-tostring-app&apos;&#x0D;&#x0A;- Original element: &apos;com.moncept.test.AccountArrayTest.printInfo(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.moncept.test.AccountArrayTest.printInfoUsingWhileLoop(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;printInfo&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.moncept.test{AccountArrayTest.java[AccountArrayTest~printInfo~\[QAccount;" name="printInfoUsingWhileLoop" references="true" stamp="1631756764983" version="1.0"/>
+</session>

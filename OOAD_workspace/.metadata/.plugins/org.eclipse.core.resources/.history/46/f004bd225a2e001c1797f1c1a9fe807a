@@ -1,0 +1,18 @@
+package com.monocept.model;
+
+public class MyThread extends Thread{
+	private TimePrinter time;
+	
+	public MyThread(TimePrinter time) {
+		this.time = new TimePrinter();
+		
+	}
+//
+//	@SuppressWarnings("unused")
+//	@Override
+//	public void run() {
+//		TimePrinter time = new TimePrinter();
+//	}
+	
+
+}

@@ -1,0 +1,6 @@
+
+h	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÞ¿ªþÿÿÿÿHVRMAJORZ
+CODE_SMELL
+„
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö…ÕÍHWRMINORZ
+CODE_SMELL

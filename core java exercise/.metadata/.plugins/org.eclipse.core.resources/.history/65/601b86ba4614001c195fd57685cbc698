@@ -1,0 +1,36 @@
+package com.monocept.test;
+
+import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class UpdateFileTest {
+	public static void main(String[] args) throws IOException {
+
+		updateTOFile();
+
+	}
+
+	public static void updateTOFile() throws IOException {
+		String line = null;
+		BufferedReader read = new BufferedReader(new FileReader("data//emp.txt"));
+		FileWriter fw = new FileWriter("data//emp1.txt");
+		Writer output = new BufferedWriter(fw);
+		if (!read.ready()) {
+			System.out.println("Nothing in file");
+		}
+		while ((line = read.readLine()) != null) {
+			if (line.contains("KING")) {
+				line.replaceAll("KING", "SALMAN");
+				output.write(line+"\n");
+			} else {
+				output.write(line+"\n");
+			}
+		}
+		read.close();
+		output.close();
+	}
+}

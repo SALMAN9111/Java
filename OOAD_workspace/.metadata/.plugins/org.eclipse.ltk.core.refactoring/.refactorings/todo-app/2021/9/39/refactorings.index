@@ -1,0 +1,11 @@
+1632320454908	Encapsulate field 'hasCompleted'
+1632320478119	Encapsulate field 'hasCompleted'
+1632320505800	Encapsulate field 'createdDate'
+1632320518560	Encapsulate field 'description'
+1632320531663	Encapsulate field 'id'
+1632325124005	Rename method 'writeToFile'
+1632325186663	Delete element
+1632325302676	Rename local variable 'todos2'
+1632412388526	Rename local variable 'i'
+1632460291062	Rename field 'f'
+1632460585518	Rename local variable 'file'

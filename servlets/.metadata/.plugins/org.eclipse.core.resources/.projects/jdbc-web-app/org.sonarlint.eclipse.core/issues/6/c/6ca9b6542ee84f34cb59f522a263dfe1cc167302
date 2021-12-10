@@ -1,0 +1,59 @@
+
+i
+java:S1135B"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÚÊ®¿Ğ/H‚
+RINFOZ
+CODE_SMELL
+š
+java:S1989P"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8ÚÊ®¿Ğ/H†
+RMINORZVULNERABILITY
+m
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8ÚÊ®¿Ğ/Hõ	RMAJORZ
+CODE_SMELL
+i
+java:S1135E"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÚÊ®¿Ğ/H„
+RINFOZ
+CODE_SMELL
+{
+java:S2095)"HUse try-with-resources or close this "Connection" in a "finally" clause.(¥êùÿÿÿÿ8ÚÊ®¿Ğ/H‡
+RBLOCKERZBUG
+p	java:S106="9Replace this use of System.out or System.err by a logger.(ìæé„şÿÿÿÿ8Ó¶¸¿Ğ/H•
+RMAJORZ
+CODE_SMELL
+‹
+java:S19899"PHandle the following exception that could be thrown by "getWriter": IOException.(“­†·øÿÿÿÿ8ÚÊ®¿Ğ/H€
+RMINORZVULNERABILITY
+r
+java:S1161N":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8ÚÊ®¿Ğ/H…
+RMAJORZ
+CODE_SMELL
+w
+java:S2147D"DCombine this catch with the one at line 63, which has the same body.(Å¡ß8ÚÊ®¿Ğ/Hø	RMINORZ
+CODE_SMELL
+w
+java:S2147G"DCombine this catch with the one at line 63, which has the same body.(ıàÑÎ8ÚÊ®¿Ğ/Hú	RMINORZ
+CODE_SMELL
+i
+java:S1135H"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÚÊ®¿Ğ/Hƒ
+RINFOZ
+CODE_SMELL
+w
+java:S2147A"DCombine this catch with the one at line 63, which has the same body.(¯áè8ÚÊ®¿Ğ/Hö	RMINORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(‰–Û8‚™‡­Ğ/Hó	RMAJORZ
+CODE_SMELL
+s	java:S125+"<This block of commented-out lines of code should be removed.(ÍØšÅüÿÿÿÿ8Ó¶¸¿Ğ/H’
+RMAJORZ
+CODE_SMELL
+‚
+java:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å›çêûÿÿÿÿ8ÚÊ®¿Ğ/Hˆ
+RBLOCKERZBUG
+s	java:S125#"<This block of commented-out lines of code should be removed.(òÄª‰üÿÿÿÿ8ÚÊ®¿Ğ/Hü	RMAJORZ
+CODE_SMELL
+i
+java:S18545"6Remove this useless assignment to local variable "rs".(¶ë‰Ş8…êÎ¿Ğ/H­
+RMAJORZ
+CODE_SMELL
+Z
+java:S14815"'Remove this unused "rs" local variable.(¶ë‰Ş8…êÎ¿Ğ/H®
+RMINORZ
+CODE_SMELL

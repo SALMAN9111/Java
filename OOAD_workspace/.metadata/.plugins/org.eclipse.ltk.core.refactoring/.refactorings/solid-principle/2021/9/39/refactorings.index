@@ -1,0 +1,31 @@
+1632376981459	Encapsulate field 'id'
+1632376988300	Encapsulate field 'description'
+1632376996051	Encapsulate field 'tax'
+1632377026974	Encapsulate field 'discount'
+1632377033773	Encapsulate field 'amount'
+1632379504078	Rename type 'Print'
+1632379522331	Rename type 'InvoicePrint'
+1632381219587	Encapsulate field 'accNumber'
+1632381229660	Encapsulate field 'name'
+1632381242253	Encapsulate field 'amount'
+1632381248893	Encapsulate field 'duration'
+1632381330886	Encapsulate field 'festival'
+1632465270803	Rename type 'Diwali'
+1632465317131	Encapsulate field 'rateCalc'
+1632465794990	Rename type 'FiexdDeposit'
+1632465819620	Rename type 'FiexdDeposit1'
+1632485036584	Delete element
+1632485104704	Delete element
+1632485112098	Delete element
+1632485157249	Delete element
+1632485221434	Copy package
+1632485228138	Delete element
+1632549897340	Encapsulate field 'side'
+1632550593546	Rename package 'IWorker'
+1632551373811	Infer generic type arguments
+1632551390108	Delete element
+1632551451237	Delete element
+1632555276181	Delete element
+1632555283448	Delete element
+1632555327595	Copy package
+1632555348408	Delete element

@@ -1,0 +1,17 @@
+
+v
+java:S1854">Remove this useless assignment to local variable "loginframe".(ÑÒàˆøÿÿÿÿ8çîÆ/H…@RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(­õëÍ8çîÆ/H†@RMAJORZ
+CODE_SMELL
+g
+java:S1481"/Remove this unused "loginframe" local variable.(ÑÒàˆøÿÿÿÿ8çîÆ/H‹@RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(û÷»™8çîÆ/HŒ@RMAJORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'javax.swing.JFrame'.(ßŒŸûùÿÿÿÿ8çîÆ/H@RMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'javax.swing.JPanel'.(ò‚•8çîÆ/H@RMINORZ
+CODE_SMELL

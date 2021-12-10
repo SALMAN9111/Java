@@ -1,0 +1,28 @@
+package com.monocept.model;
+
+import java.util.Calendar;
+import java.util.Date;
+
+public class TimePrinter implements Runnable {
+	Calendar c = Calendar.getInstance();
+	c.set(Calendar.DATE);
+	Date date = c.getTime();
+	
+	public TimePrinter() {
+		while (true) {
+			c.set(Calendar.DATE,05);
+			Date date1 = c.getTime();
+			System.out.println(date);
+		}
+	}
+
+	@Override
+	public void run() {
+		while (true) {
+			c.set(Calendar.DATE,05);
+			Date date1 = c.getTime();
+			System.out.println(date);
+		}
+		
+	}
+}

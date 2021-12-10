@@ -1,0 +1,40 @@
+
+l
+java:S2259^"BA "NullPointerException" could be thrown; "line" is nullable here.(³à«÷øÿÿÿÿH™*RMAJORZBUG
+d	java:S106v"9Replace this use of System.out or System.err by a logger.(æ­Â¾Hœ*RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‡ùØH*RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(•ŸğŒüÿÿÿÿH*RMAJORZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(Á¶Ï¹HŸ*RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(ÇŞ‰ÊH *RMAJORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(¬Ó—½şÿÿÿÿH¡*RMAJORZ
+CODE_SMELL
+U	java:S131D""Add a default case to this switch.(á×ËşÿÿÿÿH¢*RCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÇŞ‰ÊH£*RMAJORZ
+CODE_SMELL
+d	java:S106o"9Replace this use of System.out or System.err by a logger.(œ’§ìH¤*RMAJORZ
+CODE_SMELL
+d	java:S106y"9Replace this use of System.out or System.err by a logger.(õÀ•¤H¥*RMAJORZ
+CODE_SMELL
+‰	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ñµú´ıÿÿÿÿH¦*RMINORZ
+CODE_SMELL
+
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘H©*RCRITICALZ
+CODE_SMELL
+i	java:S106t"9Replace this use of System.out or System.err by a logger.(ğ²ÄãùÿÿÿÿHµ*RMAJORZ
+CODE_SMELL
+i	java:S106z"9Replace this use of System.out or System.err by a logger.(ğ²ÄãùÿÿÿÿH¶*RMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(„³À†ùÿÿÿÿH·*RMAJORZ
+CODE_SMELL
+d	java:S106u"9Replace this use of System.out or System.err by a logger.(Ó×³¯H¸*RMAJORZ
+CODE_SMELL
+i	java:S106w"9Replace this use of System.out or System.err by a logger.(ÌøÓ¢üÿÿÿÿH¹*RMAJORZ
+CODE_SMELL
+d	java:S106x"9Replace this use of System.out or System.err by a logger.(æ­Â¾Hº*RMAJORZ
+CODE_SMELL

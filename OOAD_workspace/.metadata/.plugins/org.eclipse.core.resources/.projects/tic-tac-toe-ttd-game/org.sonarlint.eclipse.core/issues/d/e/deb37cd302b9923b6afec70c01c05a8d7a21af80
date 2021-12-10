@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ†òøÿÿÿÿ8İ“ƒüÅ/HÉ6RMAJORZ
+CODE_SMELL
+_
+java:S1602#",Remove useless curly braces around statement(Àù€¿8ã“æªÅ/Hç/RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•úÅ«øÿÿÿÿ8¥•¹üÅ/H˜7RMAJORZ
+CODE_SMELL
+^
+java:S1602",Remove useless curly braces around statement(¹æÓ8¯Ìç«Å/Hê/RMINORZ
+CODE_SMELL
+d
+java:S16029",Remove useless curly braces around statement(¸Ê‹¼úÿÿÿÿ8Â–Å«Å/Hä/RMINORZ
+CODE_SMELL

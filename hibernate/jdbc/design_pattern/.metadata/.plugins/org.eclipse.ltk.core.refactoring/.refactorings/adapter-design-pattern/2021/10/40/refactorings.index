@@ -1,0 +1,9 @@
+1633171923776	Encapsulate field 'shortName'
+1633171937019	Encapsulate field 'longName'
+1633171968991	Encapsulate field 'basePrice'
+1633172042109	Rename method 'getBasePrice'
+1633172799415	Move compilation unit
+1633176585873	Delete element
+1633176940536	Infer generic type arguments
+1633177306745	Encapsulate field 'item'
+1633177520360	Extract local variable 'linkedList'

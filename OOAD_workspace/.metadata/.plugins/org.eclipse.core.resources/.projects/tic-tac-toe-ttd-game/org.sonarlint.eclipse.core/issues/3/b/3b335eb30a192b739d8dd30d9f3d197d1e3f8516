@@ -1,0 +1,46 @@
+
+u
+java:S3252."AUse static access with "javax.swing.SwingConstants" for "CENTER".(ÌÁŸûÿÿÿÿH—URCRITICALZ
+CODE_SMELL
+`
+java:S1066`"/Merge this if statement with the enclosing one.(ñô™¨úÿÿÿÿH˜URMAJORZ
+CODE_SMELL
+c
+java:S4973h"9Use the "equals" method if value comparison was intended.(óÍ¿üÿÿÿÿHšURMAJORZBUG
+U
+java:S1948"&Make "game" transient or serializable.(®®ÄH›URCRITICALZ
+CODE_SMELL
+\
+java:S1948"(Make "status" transient or serializable.(øë™ŒøÿÿÿÿHœURCRITICALZ
+CODE_SMELL
+`
+java:S1066L"/Merge this if statement with the enclosing one.(ñô™¨úÿÿÿÿHURMAJORZ
+CODE_SMELL
+c
+java:S4973T"9Use the "equals" method if value comparison was intended.(óÍ¿üÿÿÿÿHŸURMAJORZBUG
+c
+java:S4973h"9Use the "equals" method if value comparison was intended.(óÍ¿üÿÿÿÿH URMAJORZBUG
+c
+java:S4973`"9Use the "equals" method if value comparison was intended.(ñô™¨úÿÿÿÿH¡URMAJORZBUG
+[
+java:S1948"'Make "board" transient or serializable.(¢ÀñÃøÿÿÿÿH¢URCRITICALZ
+CODE_SMELL
+v
+java:S1192="HDefine a constant instead of duplicating this literal "Player1" 3 times.(¢ğˆH£URCRITICALZ
+CODE_SMELL
+X
+java:S1948")Make "players" transient or serializable.(–Ø®™H§URCRITICALZ
+CODE_SMELL
+†
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¼ ÒşüÿÿÿÿH¨URCRITICALZ
+CODE_SMELL
+X
+java:S1125J"'Remove the unnecessary boolean literal.(ªÀå‚şÿÿÿÿH´URMINORZ
+CODE_SMELL
+c
+java:S4973L"9Use the "equals" method if value comparison was intended.(ñô™¨úÿÿÿÿHµURMAJORZBUG
+G
+java:S3626z"Remove this redundant jump.(ûÁİ…H¶URMINORZ
+CODE_SMELL
+c
+java:S4973T"9Use the "equals" method if value comparison was intended.(óÍ¿üÿÿÿÿH·URMAJORZBUG

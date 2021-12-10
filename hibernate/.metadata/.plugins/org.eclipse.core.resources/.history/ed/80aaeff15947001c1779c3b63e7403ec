@@ -1,0 +1,32 @@
+package com.monocept.test;
+
+import java.util.List;
+import org.hibernate.SQLQuery;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.monocept.model.Department;
+
+public class DisplayDetailsTest {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		SessionFactory sessionFactory = cfg.configure().buildSessionFactory();
+		System.out.println(sessionFactory.getClass());
+
+		Session session = sessionFactory.openSession();
+		SQLQuery query = session.createSQLQuery("SELECT E.ENAME, D.DNAME FROM Employee E JOIN Department D ON E.DEPTNO=D.DNO");
+		java.util.List<String> studentList = query.list();
+		for(String d :studentList) {
+			Departme
+		}
+
+	}	
+}
+
+	{
+		System.out.println(student.getId());
+		System.out.println(student.getFirstName());
+		System.out.println(student.getLastName() + "\n--------");
+}session.close()
+;

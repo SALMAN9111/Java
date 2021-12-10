@@ -1,0 +1,12 @@
+
+a
+java:S1172.")Remove this unused method parameter "id".( Ã°úÿÿÿÿ8ìı»îĞ/HóRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÍİÃô8«é¨–Ğ/HßRMAJORZ
+CODE_SMELL
+[	java:S108/")Either remove or fill this block of code.(•ÊâÃ8ìı»îĞ/HõRMAJORZ
+CODE_SMELL
+‹
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÀéV8«é¨–Ğ/HŞRMINORZ
+CODE_SMELL

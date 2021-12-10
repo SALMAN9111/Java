@@ -1,0 +1,17 @@
+
+u
+java:S1206:"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãH±RMINORZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(í®„šH²RMAJORZ
+CODE_SMELL
+G
+java:S3626#"Remove this redundant jump.(ûÁİ…H³RMINORZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(ˆ¹ÛH´RMAJORZ
+CODE_SMELL
+D
+java:S2097:"Add a type test to this method.(ÜÑãHµRMINORZBUG
+r
+java:S1126C"AReplace this if-then-else statement by a single return statement.(±×µáüÿÿÿÿH¶RMINORZ
+CODE_SMELL
+f
+java:S2259="AA "NullPointerException" could be thrown; "acc" is nullable here.(ÚÈİşH·RMAJORZBUG

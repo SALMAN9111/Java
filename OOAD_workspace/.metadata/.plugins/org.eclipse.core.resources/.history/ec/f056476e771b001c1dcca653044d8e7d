@@ -1,0 +1,56 @@
+package com.monocept.model.test;
+
+import java.util.Date;
+
+import com.monocept.model.Customer;
+import com.monocept.model.Order;
+import com.monocept.model.OrderItem;
+import com.monocept.model.Product;
+
+public class InvoiceInfoTest {
+	public static void main(String[] args) {
+		Date d = new Date();
+		
+		Product product = new Product(1, "something", 100, 0);
+		OrderItem orderItem = new OrderItem(1, product, 3);
+		Order order = new Order(1, d);
+		order.addOrderItem(orderItem);
+		Customer customer = new Customer(1, "Frank");
+		customer.addOrder(order);
+		
+		Product product2 = new Product(2, "Else", 200, 0);
+		OrderItem orderItem1 = new OrderItem(2, product2, 3);
+		Order order1 = new Order(2, d);
+		order.addOrderItem(orderItem1);
+		Customer customer1 = new Customer(1, "Frank");
+		customer1.addOrder(order1);
+		
+		
+		
+		
+		
+		System.out.println("Invoice Of Purchages\n");
+		printInvoiceInfo(customer);
+		
+		printInvoiceInfo(customer1);
+
+		
+	}
+	
+	private static void printInvoiceInfo(Customer customer) {
+		
+		System.out.println("Customer ID: "+customer.getCustomerId());
+		System.out.println("Customer Name: "+customer.getCustomerName());
+		int i = 0;
+		for(Order order : customer.getOrder()) {
+			System.out.println("#"+i+1+" Order");
+			System.out.println("Order Id: "+order.getOrderId());
+			System.out.println("Order Date: "+order.getDate());
+			System.out.println("Product Name "+order.getOrderItems().get(i).getProduct().getProductName());
+			System.out.print("Price : "+order.getOrderItems().get(i).getProduct().actualPriceAfterDiscount()+"*"+order.getOrderItems().get(i).getQyt());
+			System.out.println("="+order.checkOutPrice()+"\n");
+			i++;
+		}
+		
+	}
+}

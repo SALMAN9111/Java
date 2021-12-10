@@ -1,0 +1,18 @@
+
+`
+java:S1128	"5Remove this unused import 'com.mysql.jdbc.Statement'.(ÉúúÂH3RMINORZ
+CODE_SMELL
+z
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ê”ÓÀÿÿÿÿÿH6RBLOCKERZBUG
+s
+java:S2095$"HUse try-with-resources or close this "Connection" in a "finally" clause.(¥êùÿÿÿÿH5RBLOCKERZBUG
+o	java:S106"9Replace this use of System.out or System.err by a logger.(“Õ¿øÿÿÿÿ8İ€©şĞ/H9RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¢Ë…8İ€©şĞ/H:RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Æ…Å‘øÿÿÿÿ8İ€©şĞ/H;RMAJORZ
+CODE_SMELL
+l	java:S125&"<This block of commented-out lines of code should be removed.(ğò	8İ€©şĞ/H<RMAJORZ
+CODE_SMELL
+
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÁÆ¤ğÿÿÿÿÿ8İ€©şĞ/H=RBLOCKERZBUG

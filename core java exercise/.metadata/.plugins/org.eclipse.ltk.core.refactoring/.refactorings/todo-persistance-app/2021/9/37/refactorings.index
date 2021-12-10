@@ -1,0 +1,9 @@
+1630820295562	Extract method 'writeToApp'
+1630827442830	Rename local variable 'name'
+1631156834295	Move file
+1631162073672	Delete element
+1631162494741	Delete element
+1631269988835	Delete element
+1631271719055	Rename method 'deserializeRectangleFromFile'
+1631272646590	Rename local variable 'rectangle'
+1631274181699	Rename local variable 'todoArray'

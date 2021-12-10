@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;stream-app/data/names&apos; to &apos;names.txt&apos;" description="Rename resource &apos;names&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="data/names" name="names.txt" stamp="1635662775666" updateReferences="true"/>
+</session>

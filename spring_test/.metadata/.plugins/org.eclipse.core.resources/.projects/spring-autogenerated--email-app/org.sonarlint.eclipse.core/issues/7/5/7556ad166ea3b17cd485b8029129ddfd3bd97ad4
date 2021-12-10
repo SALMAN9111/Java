@@ -1,0 +1,54 @@
+
+O
+java:S1128
+"Remove this duplicated import.(Ö€”÷øÿÿÿÿH«RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(İ¹º§ıÿÿÿÿH¬RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(¯ìÙÿÿÿÿÿH­RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(«ÀÔ€şÿÿÿÿH®RMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(È—ÿÅH¯RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(Ö€”÷øÿÿÿÿH°RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(ªº»ÚıÿÿÿÿH±RMINORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(­§ò£ÿÿÿÿÿH²RMAJORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(Ë”ÖÏH³RMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(ÇîŞH´RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(¡¸ÎùÿÿÿÿHµRMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(€·ÊŒH¶RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(«ÀÔ€şÿÿÿÿH·RMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(ÕÃ›H¸RMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(ÇîŞH¹RMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(ªº»ÚıÿÿÿÿHºRMINORZ
+CODE_SMELL
+c	java:S106/"9Replace this use of System.out or System.err by a logger.(Çğõ"H»RMAJORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(İ¹º§ıÿÿÿÿH¼RMINORZ
+CODE_SMELL

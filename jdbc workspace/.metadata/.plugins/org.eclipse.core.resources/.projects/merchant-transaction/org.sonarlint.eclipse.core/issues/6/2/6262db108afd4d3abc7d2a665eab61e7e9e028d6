@@ -1,0 +1,22 @@
+
+o	java:S106"9Replace this use of System.out or System.err by a logger.(“Õ¿øÿÿÿÿ8ÕºşĞ/HGRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¢Ë…8ÕºşĞ/HHRMAJORZ
+CODE_SMELL
+j	java:S1067"9Replace this use of System.out or System.err by a logger.(Ã¨ğÀ8öŠĞşĞ/HRRMAJORZ
+CODE_SMELL
+
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ê”ÓÀÿÿÿÿÿ8ÕºşĞ/HLRBLOCKERZBUG
+z
+java:S2095#"HUse try-with-resources or close this "Connection" in a "finally" clause.(¥êùÿÿÿÿ8ÕºşĞ/HMRBLOCKERZBUG
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Æ…Å‘øÿÿÿÿ8ÕºşĞ/HIRMAJORZ
+CODE_SMELL
+o	java:S1065"9Replace this use of System.out or System.err by a logger.(ğÀıìüÿÿÿÿ8öŠĞşĞ/HQRMAJORZ
+CODE_SMELL
+
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÁÆ¤ğÿÿÿÿÿ8ÕºşĞ/HNRBLOCKERZBUG
+l	java:S125&"<This block of commented-out lines of code should be removed.(ğò	8ÕºşĞ/HJRMAJORZ
+CODE_SMELL
+g
+java:S1128	"5Remove this unused import 'com.mysql.jdbc.Statement'.(ÉúúÂ8ÕºşĞ/HKRMINORZ
+CODE_SMELL

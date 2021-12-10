@@ -1,0 +1,25 @@
+package com.monocept.test;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+
+public class DisplayDetailsTest {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		SessionFactory sessionFactory = cfg.configure().buildSessionFactory();
+		System.out.println(sessionFactory.getClass());
+
+		Session session = sessionFactory.openSession();
+		System.out.println(session.getClass());
+
+		List<Object[]> details =  (List<Object[]>) session.createQuery("SELECT E.ename, D.dname FROM Employee E JOIN Department D ON E.DEPT_NO=D.DNO");
+		for(Object[] obj : details) {
+			System.out.println(obj[0]);
+			System.out.println(obj[1]);
+		}
+	}
+}

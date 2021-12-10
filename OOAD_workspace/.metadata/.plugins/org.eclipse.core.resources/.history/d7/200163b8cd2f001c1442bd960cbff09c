@@ -1,0 +1,88 @@
+package com.monocept.model;
+
+import com.monocept.exception.CellvalueException;
+import com.monocept.exception.InvalidCellPosException;
+
+public class Game {
+	private ResultAnalyzer resultAnalyzer;
+	private Player[] players;
+	private Result status = Result.RUNNING;
+	private Board board;
+	private int togglePlayer = 1;
+
+	public Game(Board board, ResultAnalyzer resultAnalyzer, Player[] players) {
+		this.board = board;
+		this.resultAnalyzer = resultAnalyzer;
+		this.players = players;
+	}
+
+	public void play(int cellLocation) throws InvalidCellPosException, CellvalueException {
+		if (this.getStatus() == Result.RUNNING) {
+			if (togglePlayer % 2 != 0) {
+				board.markCell(players[0].getMarkType(), cellLocation);
+				togglePlayer++;
+			} else {
+				board.markCell(players[1].getMarkType(), cellLocation);
+				togglePlayer++;
+			}
+		}
+
+		this.setStatus(getResultAnalyzer().checkResult());
+	}
+
+	public ResultAnalyzer getResultAnalyzer() {
+		return resultAnalyzer;
+	}
+
+	public Player[] getPlayers() {
+		return players;
+	}
+
+	public String currentPlayer() {
+		if (togglePlayer % 2 != 0) {
+			return getPlayers()[0].getPlayerName();
+		}
+		return getPlayers()[1].getPlayerName();
+	}
+
+	public Board getBoard() {
+		return board;
+	}
+
+	public Result getStatus() {
+		return status;
+	}
+
+	public void setStatus(Result status) {
+		this.status = status;
+	}
+
+}
+
+/*
+ * package com.monocept.model;
+ * 
+ * public class Game { private Board board; private Player players[]; private
+ * String currentPlayer; private ResultAnalyser status;
+ * 
+ * public Game(Board board, ResultAnalyser status, Player[] players) {
+ * this.board = board; this.status =status; this.players = players; }
+ * 
+ * 
+ * public void play(int cellLocation) { for(int i=0; i<9; i++) { if(i%2==0) {
+ * board.markCell(cellLocation, Mark.X); currentPlayer =
+ * players[0].getPlayerName(); return;
+ * 
+ * } else { board.markCell(cellLocation, Mark.O);
+ * System.out.println(players[1].getPlayerName()); currentPlayer =
+ * players[1].getPlayerName(); } }
+ * 
+ * }
+ * 
+ * 
+ * public String getCurrentPlayer() { return currentPlayer; }
+ * 
+ * public String getStatus() { return status.checkResult(this.board); }
+ * 
+ * }
+ */

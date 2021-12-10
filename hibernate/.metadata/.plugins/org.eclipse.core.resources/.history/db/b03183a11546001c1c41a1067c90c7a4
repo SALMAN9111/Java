@@ -1,0 +1,48 @@
+package com.monocept.model;
+
+import java.util.List;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+
+import org.hibernate.annotations.Cascade;
+
+@Entity
+public class Actors {
+	@Id
+	private int actorId;
+	private String actorName;
+	
+	@ManyToMany(cascade = CascadeType.ALL)
+	Movies movies;
+	
+	public Actors() {
+		movies = new Movies();
+	}
+	public Actors(int actorId, String actorName) {
+		this()
+		this.actorId = actorId;
+		this.actorName = actorName;
+	}
+
+	public int getActorId() {
+		return actorId;
+	}
+
+	public void setActorId(int actorId) {
+		this.actorId = actorId;
+	}
+
+	public String getActorName() {
+		return actorName;
+	}
+
+	public void setActorName(String actorName) {
+		this.actorName = actorName;
+	}
+
+	
+
+}

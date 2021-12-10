@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;c1&apos; in &apos;com.monocept.case2.test.Case2Test.main(...)&apos; to &apos;c3&apos;&#x0D;&#x0A;- Original project: &apos;constructor-inheritance-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.case2.test.Case2Test.main(String[]).c1&apos;&#x0D;&#x0A;- Renamed element: &apos;c1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;c1&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.case2.test{Case2Test.java[Case2Test~main~\[QString;@c1!287!312!293!294!QChild;!0!false" name="c3" references="true" stamp="1631169637553" version="1.0"/>
+</session>

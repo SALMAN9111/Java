@@ -1,0 +1,28 @@
+package com.monocept.test;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.List;
+
+import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SizeAction;
+
+import static java.util.stream.Collectors.toList;
+
+
+public class ReadFileTest {
+	public static void main(String[] args) throws IOException {
+		caseStudy1();
+	}
+
+	private static void caseStudy1() throws IOException {
+		
+		List<Path> fileNames = (List) Files.list(Paths.get("C:\\Windows\\System32"))
+//				.filter(p-> !p.getFileName().toString())
+//				.filter(file->SizeAction.NAME.length() > 10)
+				.limit(10)
+				.collect(toList());
+		fileNames.forEach(System.out::println);
+	}
+
+}

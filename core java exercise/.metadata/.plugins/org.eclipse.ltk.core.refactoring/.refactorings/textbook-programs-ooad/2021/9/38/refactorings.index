@@ -1,0 +1,12 @@
+1631848626536	Encapsulate field 'serialNumber'
+1631848635743	Encapsulate field 'builder'
+1631848645598	Encapsulate field 'model'
+1631848652787	Encapsulate field 'type'
+1631848660624	Encapsulate field 'backwood'
+1631848668314	Encapsulate field 'topwood'
+1631848674976	Encapsulate field 'price'
+1631938756025	Delete element
+1631938762215	Delete element
+1631938767196	Delete element
+1631938773347	Delete element
+1631939171563	Rename local variable 'inventory1'

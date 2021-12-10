@@ -1,0 +1,6 @@
+1632657488606	Rename local variable 'oldFilePath'
+1632658775688	Rename type 'EmployeeByDepartmentNoTest'
+1632659399249	Rename local variable 'word'
+1632659829892	Extract method 'displayEmployeeByDepartmentNumber'
+1632659875541	Extract method 'displayEmployeeByDesignation'
+1632659988488	Extract method 'displayEmployeeWithHighest'

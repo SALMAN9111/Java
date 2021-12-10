@@ -1,0 +1,7 @@
+1632755116797	Rename type 'Employee'
+1632755434454	Extract method 'employeeByDesignation'
+1632755476246	Extract method 'employeeByDepartmentNumber'
+1632755518284	Extract method 'employeeWithHighestSalary'
+1632756098298	Rename type 'ReadFile'
+1632994554191	Extract method 'readData'
+1632994712260	Extract method 'readData'

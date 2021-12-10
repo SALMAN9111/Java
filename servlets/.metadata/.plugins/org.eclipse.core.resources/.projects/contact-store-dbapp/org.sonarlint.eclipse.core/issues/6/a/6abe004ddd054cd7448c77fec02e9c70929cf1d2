@@ -1,0 +1,15 @@
+
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÀéV8ÏİĞğĞ/H­RMINORZ
+CODE_SMELL
+N
+java:S3626$"Remove this redundant jump.(ûÁİ…8ßè¨ûĞ/HøRMINORZ
+CODE_SMELL
+N
+java:S3626-"Remove this redundant jump.(ûÁİ…8²ÁË˜Ñ/H²RMINORZ
+CODE_SMELL
+a
+java:S1068"/Remove this unused "contactList" private field.(…ÀéV8ßè¨ûĞ/HùRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÍİÃô8ÏİĞğĞ/H®RMAJORZ
+CODE_SMELL

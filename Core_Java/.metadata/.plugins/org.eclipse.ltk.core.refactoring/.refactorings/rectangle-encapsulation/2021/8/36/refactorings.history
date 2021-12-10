@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;smallRectangle&apos; in &apos;com.monocept.test.RectangleTest.main(...)&apos; to &apos;manyRectangles&apos;&#x0D;&#x0A;- Original project: &apos;rectangle-encapsulation&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.test.RectangleTest.main(String[]).smallRectangle&apos;&#x0D;&#x0A;- Renamed element: &apos;smallRectangle&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;smallRectangle&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.test{RectangleTest.java[RectangleTest~main~\[QString;@smallRectangle!145!190!157!170!\[QRectangle;!0!false" name="manyRectangles" references="true" stamp="1630396340645" version="1.0"/>
+</session>

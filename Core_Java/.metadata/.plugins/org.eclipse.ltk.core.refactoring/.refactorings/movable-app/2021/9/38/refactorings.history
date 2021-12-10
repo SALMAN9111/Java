@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;array&apos; in &apos;com.monocept.model.test.MovableTest.main(...)&apos; to &apos;arrayOfMovables&apos;&#x0D;&#x0A;- Original project: &apos;movable-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.test.MovableTest.main(String[]).array&apos;&#x0D;&#x0A;- Renamed element: &apos;array&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;array&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.model.test{MovableTest.java[MovableTest~main~\[QString;@array!247!281!256!260!\[QIMovable;!0!false" name="arrayOfMovables" references="true" stamp="1631608469804" version="1.0"/>
+</session>

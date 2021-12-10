@@ -1,0 +1,14 @@
+
+c	java:S1067"9Replace this use of System.out or System.err by a logger.(נÜצHNRMAJORZ
+CODE_SMELL
+t
+java:S5344"">Don't use the default "PasswordEncoder" relying on plain-text.(ÝװÜ÷שÿÿÿÿHORCRITICALZVULNERABILITY
+f
+java:S1874'";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(ו‰צHPRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(רױװÜHQRMAJORZ
+CODE_SMELL
+h	java:S106!"9Replace this use of System.out or System.err by a logger.(˜פüÿÿÿÿHRRMAJORZ
+CODE_SMELL
+k	java:S125+"<This block of commented-out lines of code should be removed.(םלרûÿÿÿÿHSRMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­ÁøÿÿÿÿHžRMINORZ
+CODE_SMELL
+‚	java:S116"RRename this field "Balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŠà¾þÿÿÿÿHŸRMINORZ
+CODE_SMELL
+ƒ	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿…Š€ýÿÿÿÿH RMINORZ
+CODE_SMELL
+	java:S116	"ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿà¢ªüÿÿÿÿH¡RMINORZ
+CODE_SMELL

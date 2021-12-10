@@ -1,0 +1,6 @@
+1633705076117	Encapsulate field 'nameLabel'
+1633705082393	Encapsulate field 'passswordLabel'
+1633710543480	Rename method 'placeComponents'
+1633712736365	Rename field 'userText'
+1633712744073	Rename local variable 'userName'
+1633713282026	Rename field 'userText'

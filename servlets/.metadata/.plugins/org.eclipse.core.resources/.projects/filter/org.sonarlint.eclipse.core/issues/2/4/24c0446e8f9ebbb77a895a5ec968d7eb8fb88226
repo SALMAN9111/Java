@@ -1,0 +1,16 @@
+
+º
+java:S1186("ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡‰ô¥˝ˇˇˇˇ8Ωõ–ò–/HôRCRITICALZ
+CODE_SMELL
+∑
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çì∂Ó8Ωõ–ò–/HùRCRITICALZ
+CODE_SMELL
+∑
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(≤˜≈˙8Ωõ–ò–/HõRCRITICALZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "req".(È≠∏≥8Ωõ–ò–/HöRMAJORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "req" local variable.(È≠∏≥8Ωõ–ò–/HúRMINORZ
+CODE_SMELL

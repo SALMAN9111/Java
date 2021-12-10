@@ -1,0 +1,8 @@
+1630828490552	Rename local variable 'n'
+1630828752488	Extract method 'addTodos'
+1630828774080	Extract method 'removeTodos'
+1630829175374	Rename method 'display'
+1630855832802	Rename type 'TodoApp1'
+1631276321106	Extract method 'readNumberToRemoveTodo'
+1631276575038	Extract method 'readTodo'
+1631276677332	Rename local variable 'todoItem'

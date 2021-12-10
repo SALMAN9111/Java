@@ -1,0 +1,11 @@
+package com.monocept.model;
+
+public class Employee {
+	private int eid;
+	private String ename;
+	private String job;
+	
+	@ManyToOne
+	@JoinColumn
+	dept:Department
+}

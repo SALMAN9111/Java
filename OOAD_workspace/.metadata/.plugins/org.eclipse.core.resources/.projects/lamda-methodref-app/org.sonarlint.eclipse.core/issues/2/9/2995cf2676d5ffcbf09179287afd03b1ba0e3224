@@ -1,0 +1,16 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(öÜôÑşÿÿÿÿ8§ø¤şË/HÇURMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ì„ãÉ8®ïœşË/HÄURMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(öë¥¤8‚áşË/HÂURMAJORZ
+CODE_SMELL
+m
+java:S2184"BCast one of the operands of this addition operation to a "double".(ÓˆŒR8†¶‰şË/HÁURMINORZBUG
+[
+java:S1604"(Make this anonymous inner class a lambda(˜†éí8‚ÈˆşË/H¿URMAJORZ
+CODE_SMELL
+v
+java:S2184!"ECast one of the operands of this subtraction operation to a "double".(è¤³´ûÿÿÿÿ8§ø¤şË/HÈURMINORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(É‰œí8®ïœşË/HÃURMAJORZ
+CODE_SMELL

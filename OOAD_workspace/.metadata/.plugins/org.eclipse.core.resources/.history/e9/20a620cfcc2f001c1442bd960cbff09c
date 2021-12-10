@@ -1,0 +1,42 @@
+package com.monocept.model;
+
+public class Game {
+	private Board board;
+	private Player players[];
+	private String currentPlayer;
+	private ResultAnalyser status;
+	
+	public Game(Board board, ResultAnalyser status, Player[] players) {
+		this.board = board;
+		this.status =status;
+		this.players = players;
+	}
+	
+	
+	public void play(int cellLocation) {
+		for(int i=0; i<9; i++) {
+			if(i%2==0) {
+				board.markCell(cellLocation, Mark.X);
+				currentPlayer = players[0].getPlayerName();
+				return;
+				
+			}
+			else {
+				board.markCell(cellLocation, Mark.O);
+				System.out.println(players[1].getPlayerName());
+				currentPlayer = players[1].getPlayerName();
+			}
+		}
+		
+	}
+
+
+	public String getCurrentPlayer() {
+		return currentPlayer;
+	}
+	
+	public String getStatus() {
+		return status.checkResult(this.board);
+	}
+
+}

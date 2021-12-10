@@ -1,0 +1,29 @@
+package student.entity.app;
+
+import javax.management.Query;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+
+public class CrudTest {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		cfg.configure("hibernate.cfg.xml");
+		
+		SessionFactory factory = cfg.buildSessionFactory();
+		
+		Session session = factory.openSession();
+		
+		Transaction t= session.beginTransaction();
+		
+		org.hibernate.Query query = session.createQuery("from student");
+		java.util.List list = query.list();
+		System.out.println(list);
+		t.commit();
+		session.close();
+	}
+
+}

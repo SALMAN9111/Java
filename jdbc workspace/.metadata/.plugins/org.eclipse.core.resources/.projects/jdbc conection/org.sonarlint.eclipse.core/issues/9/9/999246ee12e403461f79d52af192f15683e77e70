@@ -1,0 +1,19 @@
+
+b	java:S106"9Replace this use of System.out or System.err by a logger.(‡¨lHRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ìèâ²HRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(ùœ³ŒıÿÿÿÿHRMAJORZ
+CODE_SMELL
+]
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHRMAJORZ
+CODE_SMELL
+¤
+java:S1130	"vRemove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from method's body.(ã€ªùÿÿÿÿRMINORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(¦ÇÉùÿÿÿÿHRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(ãÿÒïüÿÿÿÿHRMAJORZ
+CODE_SMELL
+n
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Î˜¯­HRBLOCKERZBUG

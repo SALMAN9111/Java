@@ -1,0 +1,16 @@
+
+l	java:S125	"<This block of commented-out lines of code should be removed.(á¿äúıÿÿÿÿHãRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿHåRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(î÷á¥ùÿÿÿÿHæRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ú°ö¶ùÿÿÿÿHçRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÆëïíHèRMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(ĞƒşHéRMAJORZ
+CODE_SMELL
+v
+java:S1128"JRemove this unused import 'com.monocept.model.InsufficientFundsException'.(¦¾„¼HêRMINORZ
+CODE_SMELL

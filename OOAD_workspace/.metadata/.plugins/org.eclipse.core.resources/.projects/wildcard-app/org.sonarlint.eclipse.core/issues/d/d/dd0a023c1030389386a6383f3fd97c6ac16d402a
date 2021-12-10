@@ -1,0 +1,22 @@
+
+_
+java:S1481",Remove this unused "numbers" local variable.(ÕÅ‘ø8Í±ùÂÐ/H¬YRMINORZ
+CODE_SMELL
+d
+java:S1144"1Remove this unused private "printDetails" method.(å™Åº8Í±ùÂÐ/H®YRMAJORZ
+CODE_SMELL
+l
+java:S1854"9Remove this useless assignment to local variable "names".(ªò À8Í±ùÂÐ/H©YRMAJORZ
+CODE_SMELL
+n	java:S125	"<This block of commented-out lines of code should be removed.(óûäí8Í±ùÂÐ/H«YRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿã%8ê¿ ¯Í/H§YRMAJORZ
+CODE_SMELL
+n
+java:S1854";Remove this useless assignment to local variable "numbers".(ÕÅ‘ø8Í±ùÂÐ/H¨YRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ªôƒ¼ýÿÿÿÿ8Í±ùÂÐ/H­YRMAJORZ
+CODE_SMELL
+]
+java:S1481"*Remove this unused "names" local variable.(ªò À8Í±ùÂÐ/HªYRMINORZ
+CODE_SMELL

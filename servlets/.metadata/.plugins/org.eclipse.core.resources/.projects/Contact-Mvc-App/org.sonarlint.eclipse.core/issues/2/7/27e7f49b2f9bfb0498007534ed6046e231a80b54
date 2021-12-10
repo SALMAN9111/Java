@@ -1,0 +1,10 @@
+
+n	java:S125	"<This block of commented-out lines of code should be removed.(şÎÄû8ı¾ˆñĞ/HÆRMAJORZ
+CODE_SMELL
+[
+java:S1481
+"(Remove this unused "con" local variable.(¶‹ïÒ8ı¾ˆñĞ/HÇRMINORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ©ïóıÿÿÿÿ8¸ö“ñĞ/HËRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,51 @@
+
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ÎÊ‹Ûıÿÿÿÿ8Üú¤ÅÁ/H—RMAJORZ
+CODE_SMELL
+j	java:S106'"9Replace this use of System.out or System.err by a logger.(¦·ÿ8úà¤ÃÁ/HÉRMAJORZ
+CODE_SMELL
+z
+java:S1144,"GRemove this unused private "displayNamesWhoLenghtMoreThanSeven" method.(¼©ø8÷…¶ÃÁ/H°RMAJORZ
+CODE_SMELL
+j
+java:S4973 "9Use the "equals" method if value comparison was intended.(øİëÏşÿÿÿÿ8¼íšÃÁ/H¯RMAJORZBUG
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÅ±’8Üú¤ÅÁ/H™RMAJORZ
+CODE_SMELL
+s
+java:S11442";Remove this unused private "displayNamesStartWithA" method.(œÒ˜òÿÿÿÿÿ8»£ÎÃÁ/HâRMAJORZ
+CODE_SMELL
+‚
+java:S1192""LDefine a constant instead of duplicating this literal "
+Location: " 4 times.(Š¢â8áÚªÃÁ/HÔRCRITICALZ
+CODE_SMELL
+…
+java:S1192"JDefine a constant instead of duplicating this literal "Hyderabad" 4 times.(Šµµ·ÿÿÿÿÿ8â¯³ÀÁ/H¼RCRITICALZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(üº§øÿÿÿÿ8áÚªÃÁ/HÒRMAJORZ
+CODE_SMELL
+h
+java:S1144"6Remove this unused private "displayByLocation" method.(ÔïÂ+8úà¤ÃÁ/HÊRMAJORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆµÁ'8éò¶ÀÁ/HñRMINORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(Üœîûÿÿÿÿ8ãÔ´ÃÁ/H˜RMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(ø™‰‚ùÿÿÿÿ8â¯³ÀÁ/H©RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ßš”úÿÿÿÿ8úà¤ÃÁ/HÈRMAJORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(åÙµõşÿÿÿÿ8Üú¤ÅÁ/HšRMAJORZ
+CODE_SMELL
+ƒ
+java:S1192!"HDefine a constant instead of duplicating this literal "
+Cgpa: " 4 times.(ÎÊ‹Ûıÿÿÿÿ8áÚªÃÁ/HØRCRITICALZ
+CODE_SMELL
+p
+java:S1144&"=Remove this unused private "displayCgpaMoreThanSeven" method.(Ã‹êç8¾–¹ÃÁ/HÇRMAJORZ
+CODE_SMELL
+ƒ
+java:S1192!"HDefine a constant instead of duplicating this literal "
+Name: " 4 times.(ÎÊ‹Ûıÿÿÿÿ8áÚªÃÁ/HÜRCRITICALZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(Â­‚õüÿÿÿÿ8Üú¤ÅÁ/H˜RMAJORZ
+CODE_SMELL

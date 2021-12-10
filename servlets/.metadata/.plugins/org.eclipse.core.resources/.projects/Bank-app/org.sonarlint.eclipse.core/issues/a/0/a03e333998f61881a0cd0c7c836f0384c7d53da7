@@ -1,0 +1,87 @@
+
+g
+java:S1121".Extract the assignment out of this expression.(ßò’İùÿÿÿÿ8§€éğÑ/H¯RMAJORZ
+CODE_SMELL
+ƒ
+java:S2095Ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³æÊÃøÿÿÿÿ8§€éğÑ/H½RBLOCKERZBUG
+~
+java:S2095Ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Öµ–Ç8§€éğÑ/HRBLOCKERZBUG
+l	java:S106—"9Replace this use of System.out or System.err by a logger.(“Ä–8§€éğÑ/H¨RMAJORZ
+CODE_SMELL
+ª
+java:S1192L"oDefine a constant instead of duplicating this literal "INSERT INTO bank_transaction VALUES( ?, ?,?,?)" 3 times.(’éÔ‚ıÿÿÿÿ8§€éğÑ/H«RCRITICALZ
+CODE_SMELL
+q	java:S106ü"9Replace this use of System.out or System.err by a logger.(ÏÊßÊşÿÿÿÿ8à‚¾Ò/H»RMAJORZ
+CODE_SMELL
+t
+java:S1854";Remove this useless assignment to local variable "balance".(ßò’İùÿÿÿÿ8§€éğÑ/H‹RMAJORZ
+CODE_SMELL
+q	java:S106Û"9Replace this use of System.out or System.err by a logger.(âÙ«¥üÿÿÿÿ8§€éğÑ/H˜RMAJORZ
+CODE_SMELL
+q	java:S106û"9Replace this use of System.out or System.err by a logger.(½•­ıÿÿÿÿ8à‚¾Ò/H¦RMAJORZ
+CODE_SMELL
+t
+java:S1126x"AReplace this if-then-else statement by a single return statement.(©Òà§8§€éğÑ/H¥RMINORZ
+CODE_SMELL
+e	java:S106ß"9Replace this use of System.out or System.err by a logger.(ë¿ÛÌH›RMAJORZ
+CODE_SMELL
+…
+java:S1192V"ODefine a constant instead of duplicating this literal "Bank transac- " 3 times.(¼İßş8§€éğÑ/H¿RCRITICALZ
+CODE_SMELL
+v
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÙÃ¾ëHRBLOCKERZBUG
+ƒ
+java:S2095ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–€›²øÿÿÿÿ8à‚¾Ò/H¸RBLOCKERZBUG
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(ë¿ÛÌ8§€éğÑ/H¶RMAJORZ
+CODE_SMELL
+p	java:S106Z"9Replace this use of System.out or System.err by a logger.(âÙ«¥üÿÿÿÿ8à‚¾Ò/HµRMAJORZ
+CODE_SMELL
+’
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(©à£ÿÿÿÿÿ8à‚¾Ò/H™RMINORZ
+CODE_SMELL
+ƒ
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–Ûò€ÿÿÿÿÿ8§€éğÑ/HŠRBLOCKERZBUG
+q	java:S106¡"9Replace this use of System.out or System.err by a logger.(ğúáæÿÿÿÿÿ8§€éğÑ/H°RMAJORZ
+CODE_SMELL
+‚
+java:S2095h"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸‹£©úÿÿÿÿ8§€éğÑ/HºRBLOCKERZBUG
+e	java:S106×"9Replace this use of System.out or System.err by a logger.(„Ñ„şH±RMAJORZ
+CODE_SMELL
+d	java:S106è"9Replace this use of System.out or System.err by a logger.(‹Î‰=H—RMAJORZ
+CODE_SMELL
+e	java:S106·"9Replace this use of System.out or System.err by a logger.(ë¿ÛÌH¾RMAJORZ
+CODE_SMELL
+s	java:S125#"<This block of commented-out lines of code should be removed.(şöÑşÿÿÿÿ8à‚¾Ò/HRMAJORZ
+CODE_SMELL
+`
+java:S1481Š",Remove this unused "balance" local variable.(Í¼ÆÕ8§€éğÑ/H–RMINORZ
+CODE_SMELL
+‚
+java:S1192Z"GDefine a constant instead of duplicating this literal "commit" 3 times.(âÙ«¥üÿÿÿÿ8§€éğÑ/HRCRITICALZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(›Ï£şÿÿÿÿ8§€éğÑ/HªRMAJORZ
+CODE_SMELL
+k	java:S106V"9Replace this use of System.out or System.err by a logger.(¼İßş8§€éğÑ/H¹RMAJORZ
+CODE_SMELL
+h
+java:S1751"6Remove this "return" statement or make it conditional.(ßò’İùÿÿÿÿ8§€éğÑ/HŒRMAJORZBUG
+l	java:S106¯"9Replace this use of System.out or System.err by a logger.(„Ñ„ş8§€éğÑ/H§RMAJORZ
+CODE_SMELL
+v
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘¹ØàHšRBLOCKERZBUG
+ƒ
+java:S2095§"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(³æÊÃøÿÿÿÿ8§€éğÑ/HœRBLOCKERZBUG
+
+java:S1192]"IDefine a constant instead of duplicating this literal "rollback" 3 times.(ë¿ÛÌ8§€éğÑ/H’RCRITICALZ
+CODE_SMELL
+l	java:S106¿"9Replace this use of System.out or System.err by a logger.(“Ä–8§€éğÑ/H·RMAJORZ
+CODE_SMELL
+~
+java:S2095œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Öµ–Ç8§€éğÑ/H²RBLOCKERZBUG
+G
+java:S3626`"Remove this redundant jump.(ûÁİ…H´RMINORZ
+CODE_SMELL
+q	java:S106É"9Replace this use of System.out or System.err by a logger.(ğúáæÿÿÿÿÿ8§€éğÑ/H³RMAJORZ
+CODE_SMELL
+q	java:S106³"9Replace this use of System.out or System.err by a logger.(âÙ«¥üÿÿÿÿ8§€éğÑ/H©RMAJORZ
+CODE_SMELL

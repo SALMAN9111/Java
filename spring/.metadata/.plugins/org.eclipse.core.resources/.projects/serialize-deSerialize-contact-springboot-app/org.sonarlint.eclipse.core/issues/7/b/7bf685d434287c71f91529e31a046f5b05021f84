@@ -1,0 +1,19 @@
+
+z
+java:S2095+"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿHnRBLOCKERZBUG
+„
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨×ªôHiRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(À¯œHjRMAJORZ
+CODE_SMELL
+x
+java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ö™Ú¹øÿÿÿÿHqRBLOCKERZBUG
+j
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿHmRMINORZ
+CODE_SMELL
+t
+java:S2095 "NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(³´íHoRBLOCKERZBUG
+h	java:S106%"9Replace this use of System.out or System.err by a logger.(ıÊæ¤ÿÿÿÿÿHkRMAJORZ
+CODE_SMELL
+{
+java:S2095!"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿHpRBLOCKERZBUG

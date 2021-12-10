@@ -1,0 +1,30 @@
+
+Ž
+java:S1989 "SHandle the following exception that could be thrown by "sendRedirect": IOException.(âùÒúÿÿÿÿ8ã€éžÐ/H‚RMINORZVULNERABILITY
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ßÈ´üÿÿÿÿ8šò‡ìÐ/HòRMAJORZ
+CODE_SMELL
+_
+java:S1481*"'Remove this unused "pw" local variable.(“­†·øÿÿÿÿ8¤ú„ðÏ/H‘RMINORZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHRMAJORZ
+CODE_SMELL
+N
+java:S36265"Remove this redundant jump.(ûÁÝ…8¼ÙžŸÐ/H“RMINORZ
+CODE_SMELL
+k
+java:S1161(":Add the "@Override" annotation above this method signature(þ³‚”ûÿÿÿÿH†RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äº¾óÿÿÿÿÿ8œíŒìÐ/HƒRMAJORZ
+CODE_SMELL
+n
+java:S1854*"6Remove this useless assignment to local variable "pw".(“­†·øÿÿÿÿ8¤ú„ðÏ/H…RMAJORZ
+CODE_SMELL
+„
+java:S1989*"PHandle the following exception that could be thrown by "getWriter": IOException.(“­†·øÿÿÿÿHƒRMINORZVULNERABILITY
+ˆ
+java:S19894"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ºá­^8á¡éëÐ/HÞRMINORZVULNERABILITY
+s	java:S125>"<This block of commented-out lines of code should be removed.(ºÿÛÛùÿÿÿÿ8¬çíêÐ/H°RMAJORZ
+CODE_SMELL
+œ
+java:S1989#"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ÿ–üÕùÿÿÿÿ8ÌøþžÐ/HRMINORZVULNERABILITY

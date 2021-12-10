@@ -1,0 +1,10 @@
+
+s
+java:S1854"@Remove this useless assignment to local variable "expectedMark".(·º“Û8øÒ–ÜÄ/HÅ-RMAJORZ
+CODE_SMELL
+d
+java:S1481"1Remove this unused "expectedMark" local variable.(·º“Û8øÒ–ÜÄ/HÆ-RMINORZ
+CODE_SMELL
+_
+java:S1128"-Remove this unused import 'org.junit.Assert'.(­ŞL8øÒ–ÜÄ/HÇ-RMINORZ
+CODE_SMELL

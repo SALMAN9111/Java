@@ -1,0 +1,17 @@
+package com.monocept.test;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+public class ReadFileTest {
+	public static void main(String[] args) throws IOException {
+		caseStudy1();
+	}
+
+	private static void caseStudy1() throws IOException {
+		String path = "C:\\Users\\Toshiba\\.conda";
+		Files.lines(Paths.get("C:\\Users\\Toshiba\\.conda")).forEach(System.out::println);
+	}
+
+}

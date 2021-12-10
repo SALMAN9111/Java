@@ -1,0 +1,10 @@
+1633352910385	Rename method 'checkMark'
+1633354582622	Rename method 'setMark'
+1633357048483	Delete element
+1633357061049	Delete element
+1633357093507	Delete element
+1633357121477	Delete element
+1633357821977	Encapsulate field 'cellMark'
+1633517976091	Rename type 'CellPositionIsAlreadyTaken'
+1633521408961	Rename method 'setCellMark'
+1633665532972	Rename method 'checkWin'

@@ -1,0 +1,9 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHıRMAJORZ
+CODE_SMELL
+w
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ºıõHşRBLOCKERZBUG
+z
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‡…í”ıÿÿÿÿHÿRBLOCKERZBUG
+c	java:S106"9Replace this use of System.out or System.err by a logger.(³ş’H€RMAJORZ
+CODE_SMELL

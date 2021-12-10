@@ -1,0 +1,35 @@
+
+f
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH¢RMAJORZ
+CODE_SMELL
+G
+java:S3626$"Remove this redundant jump.(ûÁÝ…H£RMINORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(ºÞ¼H¤RMAJORZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(ÄÃ“H¥RMAJORZ
+CODE_SMELL
+•
+java:S1989#"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ÿ–üÕùÿÿÿÿH¦RMINORZVULNERABILITY
+k
+java:S1161+":Add the "@Override" annotation above this method signature(þ³‚”ûÿÿÿÿH§RMAJORZ
+CODE_SMELL
+G
+java:S3626d"Remove this redundant jump.(ûÁÝ…H¨RMINORZ
+CODE_SMELL
+X
+java:S11255"'Remove the unnecessary boolean literal.(ƒ‹ÙÄüÿÿÿÿH©RMINORZ
+CODE_SMELL
+‡
+java:S1989>"SHandle the following exception that could be thrown by "sendRedirect": IOException.(î¸ÅŽøÿÿÿÿHªRMINORZVULNERABILITY
+‚
+java:S1989W"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤—ÎÄH«RMINORZVULNERABILITY
+g	java:S125S"<This block of commented-out lines of code should be removed.(“ÕØÓH¬RMAJORZ
+CODE_SMELL
+l	java:S125]"<This block of commented-out lines of code should be removed.(ÄØŠüÿÿÿÿH®RMAJORZ
+CODE_SMELL
+•
+java:S1989c"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ÿ–üÕùÿÿÿÿH°RMINORZVULNERABILITY
+\
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛH±RMINORZ
+CODE_SMELL

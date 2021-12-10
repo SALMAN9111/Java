@@ -1,0 +1,26 @@
+
+j
+java:S1854""8Remove this useless assignment to local variable "temp".(ÃÑÙG8­•ŠôÄ/H…RMAJORZ
+CODE_SMELL
+k
+java:S1117;":Rename "current" which hides the field declared at line 4.(ºóÜüÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+k
+java:S1117F":Rename "current" which hides the field declared at line 4.(ºóÜüÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿å¡¬HRMINORZ
+CODE_SMELL
+d	java:S106L"9Replace this use of System.out or System.err by a logger.(æÀËHŒRMAJORZ
+CODE_SMELL
+d	java:S106N"9Replace this use of System.out or System.err by a logger.(³Ş—ìHRMAJORZ
+CODE_SMELL
+^
+java:S1172+"+Remove this unused method parameter "item".(Şì«Æ8õÿ¯ƒÅ/HşRMAJORZ
+CODE_SMELL
+i	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÛü¹ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+s
+java:S22593"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÁÓ¿·úÿÿÿÿ8Â¡ŞƒÅ/HÂRMAJORZBUG
+N
+java:S3626"Remove this redundant jump.(ûÁİ…8Àáß‚Å/H®RMINORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+i
+java:S1854"6Remove this useless assignment to local variable "id".(ø›Å¡8éà¬˜Ğ/HÿRMAJORZ
+CODE_SMELL
+
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ø›Å¡8éà¬˜Ğ/H€RMINORZVULNERABILITY
+Z
+java:S1481"'Remove this unused "id" local variable.(ø›Å¡8éà¬˜Ğ/HRMINORZ
+CODE_SMELL
+k
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿHçRMAJORZ
+CODE_SMELL
+„
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(“­†·øÿÿÿÿHşRMINORZVULNERABILITY

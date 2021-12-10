@@ -1,0 +1,44 @@
+
+l	java:S125R"<This block of commented-out lines of code should be removed.(Ş¬ÙÇÿÿÿÿÿHíXRMAJORZ
+CODE_SMELL
+¤
+java:S1130."xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(°ºÎÖHîXRMINORZ
+CODE_SMELL
+©
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ùàæ ùÿÿÿÿHïXRMINORZ
+CODE_SMELL
+
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ùàæ ùÿÿÿÿHğXRMINORZ
+CODE_SMELL
+l	java:S125`"<This block of commented-out lines of code should be removed.(ß¶íúÿÿÿÿHñXRMAJORZ
+CODE_SMELL
+©
+java:S1130@"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ùàæ ùÿÿÿÿH€YRMINORZ
+CODE_SMELL
+g
+java:S1117/";Rename "setList" which hides the field declared at line 11.(Ü€ï¬HYRMAJORZ
+CODE_SMELL
+˜
+java:S1130."lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°ºÎÖH‚YRMINORZ
+CODE_SMELL
+©
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(óúÎéüÿÿÿÿHƒYRMINORZ
+CODE_SMELL
+g
+java:S1117";Rename "setList" which hides the field declared at line 11.(Ü€ï¬H„YRMAJORZ
+CODE_SMELL
+_
+java:S16591".Declare "departmentNumber" on a separate line.(³ğ§ûÿÿÿÿH…YRMINORZ
+CODE_SMELL
+n	java:S125W"<This block of commented-out lines of code should be removed.(‚­É´8ØÍµÍ/H†YRMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(â‚…ğH‡YRMAJORZ
+CODE_SMELL
+©
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(—À£áùÿÿÿÿH‰YRMINORZ
+CODE_SMELL
+
+java:S1130@"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ùàæ ùÿÿÿÿHŠYRMINORZ
+CODE_SMELL
+g	java:S125C"<This block of commented-out lines of code should be removed.(â‚…ğH‹YRMAJORZ
+CODE_SMELL

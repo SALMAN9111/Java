@@ -1,0 +1,28 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ç™¢×HÇRMAJORZ
+CODE_SMELL
+_
+java:S1905 ".Remove this unnecessary cast to "Rectangle[]".(“Èˆ«ùÿÿÿÿHÈRMINORZ
+CODE_SMELL
+
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ŞÒ‡ãüÿÿÿÿHÉRMINORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+R
+java:S1168$"&Return an empty array instead of null.(¥¹ïHËRMAJORZ
+CODE_SMELL
+ª
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ŞÒ‡ãüÿÿÿÿHÌRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(òÜHÍRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ãıŸqHÎRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘ßĞ¤şÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+n
+java:S2259"I"NullPointerException" will be thrown when invoking method "printInfo()".(şäÅHĞRMAJORZBUG
+©
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ŞÒ‡ãüÿÿÿÿH×RMINORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+<html>
+<body>
+<table><tr><th>ID | </th><th>NAME | </th><th>SALARY | </th><th>PERKS | </th><th>ROLE | </th><th>ANNUAL SALARY</th></tr><tr><td>
+103</th><th>VIRAT</th><th>0.0</th><th>0.0</th><th>ACCOUNTANT</th><th>30000.0</th></tr>
+</table>
+</body>
+</html>

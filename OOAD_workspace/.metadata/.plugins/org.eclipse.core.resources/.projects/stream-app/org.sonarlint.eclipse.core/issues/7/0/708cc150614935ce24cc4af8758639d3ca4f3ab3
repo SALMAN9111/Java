@@ -1,0 +1,22 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ªÞ»¨Í/H´YRMAJORZ
+CODE_SMELL
+_
+java:S1612$",Replace this lambda with a method reference.(ï‚¯°8‡¿Û¨Í/H³YRMINORZ
+CODE_SMELL
+b
+java:S1144"/Remove this unused private "caseStudy1" method.(ƒ—Á°8¸·ÄÏÍ/H¶YRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Íüúþþÿÿÿÿ8¸·ÄÏÍ/H¸YRMAJORZ
+CODE_SMELL
+b
+java:S1144 "/Remove this unused private "caseStudy2" method.(Ï÷Ã¤8¸·ÄÏÍ/HºYRMAJORZ
+CODE_SMELL
+w
+java:S2095*"DUse try-with-resources or close this "Stream" in a "finally" clause.(™¤×ýÿÿÿÿ8™Žð¨Í/H²YRBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(—•´ì8¢‡·¨Í/H»YRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8™Žð¨Í/H·YRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8‡¿Û¨Í/HµYRMAJORZ
+CODE_SMELL

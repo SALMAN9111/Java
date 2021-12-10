@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ëâÑıÿÿÿÿ8¬ï˜ìĞ/H˜RMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8Çí¤ìĞ/H©RMINORZ
+CODE_SMELL
+o
+java:S1128"<Remove this unused import 'javax.servlet.RequestDispatcher'.(Ëöò¼8¬ï˜ìĞ/HšRMINORZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹úH×RMAJORZ
+CODE_SMELL
+ˆ
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ºá­^8° ìĞ/HRMINORZVULNERABILITY

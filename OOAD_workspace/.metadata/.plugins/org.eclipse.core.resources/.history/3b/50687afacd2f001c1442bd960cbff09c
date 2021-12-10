@@ -1,0 +1,64 @@
+package com.monocept.model;
+
+public class Game1 {
+	package com.monocept.model;
+
+	import com.monocept.exception.CellvalueException;
+	import com.monocept.exception.InvalidCellPosException;
+
+	public class Game {
+	  private ResultAnalyzer resultAnalyzer;
+	  private Player[] players;
+	  private Result status = Result.RUNNING;
+	  private Board board;
+	  private int togglePlayer = 1;
+
+	  public Game(Board board, ResultAnalyzer resultAnalyzer, Player[] players) {
+	    this.board = board;
+	    this.resultAnalyzer = resultAnalyzer;
+	    this.players = players;
+	  }
+
+	  public void play(int cellLocation) throws InvalidCellPosException, CellvalueException {
+	    if (this.getStatus() == Result.RUNNING) {
+	      if (togglePlayer % 2 != 0) {
+	        board.markCell(players[0].getMarkType(), cellLocation);
+	        togglePlayer++;
+	      } else {
+	        board.markCell(players[1].getMarkType(), cellLocation);
+	        togglePlayer++;
+	      }
+	    }
+
+	    this.setStatus(getResultAnalyzer().checkResult());
+	  }
+
+	  public ResultAnalyzer getResultAnalyzer() {
+	    return resultAnalyzer;
+	  }
+
+	  public Player[] getPlayers() {
+	    return players;
+	  }
+
+	  public String currentPlayer() {
+	    if (togglePlayer % 2 != 0) {
+	      return getPlayers()[0].getPlayerName();
+	    }
+	    return getPlayers()[1].getPlayerName();
+	  }
+
+	  public Board getBoard() {
+	    return board;
+	  }
+
+	  public Result getStatus() {
+	    return status;
+	  }
+
+	  public void setStatus(Result status) {
+	    this.status = status;
+	  }
+
+	}
+}
